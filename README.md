@@ -1,7 +1,6 @@
 #  Aula02  requisitos
 testeAula
 [repositorio Teste] 
-:bush:
 | Dados | Informação |
 |:-----| :-------|
 |:Alunos|:Nomes|
